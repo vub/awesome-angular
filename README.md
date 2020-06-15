@@ -46,6 +46,9 @@ Workbook categorized topics and technique for Angular developer
 - Singleton
 - 
 
+## Lint
+- Lint config for each front-end project
+
 ## Ref
 - https://angular.io/
 - https://material.angular.io/
