@@ -51,6 +51,8 @@ Workbook categorized topics and technique for Angular developer
 
 ## Test
 
+## Stage management
+
 ## Business Analyst
 
 ## Ref
