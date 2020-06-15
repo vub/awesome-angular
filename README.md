@@ -15,3 +15,13 @@ Workbook categorized topics and technique for Angular developer
 
 ## RxJs
 - 
+
+## View - Modal
+- https://medium.com/javascript-in-plain-english/using-angular-cdk-portal-to-create-a-modal-fde843428d83
+
+## Ref
+- https://angular.io/
+- https://material.angular.io/
+- https://rxmarbles.com/
+- https://rxjs-dev.firebaseapp.com/
+- https://medium.com/angular-in-depth
