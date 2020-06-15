@@ -1,7 +1,13 @@
 # Awesome Angular
 Workbook categorized topics and technique for Angular developer 
 
-
+## Common front-end features
+- Layout and view
+- Coloring
+- Show information
+- Interacting with Form
+- Table
+- 
 ## Form
 - Create Form
 - Form Validate
@@ -12,6 +18,10 @@ Workbook categorized topics and technique for Angular developer
 - Ref
     * https://medium.com/swlh/how-to-create-a-complex-form-in-angular-bdfaee0464d3
     * https://medium.com/angular-in-depth/angular-the-unexpected-a1aba6b4a81c
+## Table
+- Filter
+- Infiniti scroll
+- 
 
 ## RxJs
 - Nested Subscrible
@@ -29,6 +39,12 @@ Workbook categorized topics and technique for Angular developer
 
 ## Component : Publish your component
 - https://blog.bitsrc.io/sharing-components-with-angular-and-bit-b68896806c18
+
+## API
+
+## Architecture : Core
+- Singleton
+- 
 
 ## Ref
 - https://angular.io/
