@@ -14,7 +14,8 @@ Workbook categorized topics and technique for Angular developer
     * https://medium.com/angular-in-depth/angular-the-unexpected-a1aba6b4a81c
 
 ## RxJs
-- 
+- Nested Subscrible
+    * https://www.thinktecture.com/en/angular/rxjs-antipattern-1-nested-subs/
 
 ## View - Modal
 - https://medium.com/javascript-in-plain-english/using-angular-cdk-portal-to-create-a-modal-fde843428d83
