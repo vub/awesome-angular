@@ -22,6 +22,13 @@ Workbook categorized topics and technique for Angular developer
 ## Performance
 - https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0
 
+## Tooling
+- https://blog.bitsrc.io/11-top-angular-developer-tools-for-2020-3d2621f1e157
+- https://blog.bitsrc.io/11-angular-component-libraries-you-should-know-in-2018-e9f9c9d544ff
+
+## Component : Publish your component
+- https://blog.bitsrc.io/sharing-components-with-angular-and-bit-b68896806c18
+
 ## Ref
 - https://angular.io/
 - https://material.angular.io/
