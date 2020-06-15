@@ -19,6 +19,9 @@ Workbook categorized topics and technique for Angular developer
 ## View - Modal
 - https://medium.com/javascript-in-plain-english/using-angular-cdk-portal-to-create-a-modal-fde843428d83
 
+## Performance
+- https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0
+
 ## Ref
 - https://angular.io/
 - https://material.angular.io/
